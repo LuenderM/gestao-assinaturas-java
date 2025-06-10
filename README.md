@@ -1,0 +1,1 @@
+# gestao-assinaturas-java
